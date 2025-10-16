@@ -1,0 +1,769 @@
+Code,Variable_Description,Data_File
+SEQN,Respondent sequence number,"Dietary Interview - Individual Foods, First Day"
+WTDRD1PP,Dietary day one sample weight,"Dietary Interview - Individual Foods, First Day"
+WTDR2DPP,Dietary two-day sample weight,"Dietary Interview - Individual Foods, First Day"
+DR1ILINE,Food/Individual component number,"Dietary Interview - Individual Foods, First Day"
+DR1DRSTZ,Dietary recall status,"Dietary Interview - Individual Foods, First Day"
+DR1EXMER,Interviewer ID code,"Dietary Interview - Individual Foods, First Day"
+DRABF,Breast-fed infant (either day),"Dietary Interview - Individual Foods, First Day"
+DRDINT,Number of days of intake,"Dietary Interview - Individual Foods, First Day"
+DR1DBIH,# of days b/w intake and HH interview,"Dietary Interview - Individual Foods, First Day"
+DR1DAY,Intake day of the week,"Dietary Interview - Individual Foods, First Day"
+DR1LANG,Language respondent used mostly,"Dietary Interview - Individual Foods, First Day"
+DR1CCMNM,Combination food number,"Dietary Interview - Individual Foods, First Day"
+DR1CCMTX,Combination food type,"Dietary Interview - Individual Foods, First Day"
+DR1FS,Source of food,"Dietary Interview - Individual Foods, First Day"
+DR1IFDCD,USDA food code,"Dietary Interview - Individual Foods, First Day"
+DR1IGRMS,Grams,"Dietary Interview - Individual Foods, First Day"
+DR1IKCAL,Energy (kcal),"Dietary Interview - Individual Foods, First Day"
+DR1IPROT,Protein (gm),"Dietary Interview - Individual Foods, First Day"
+DR1ICARB,Carbohydrate (gm),"Dietary Interview - Individual Foods, First Day"
+DR1ISUGR,Total sugars (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IFIBE,Dietary fiber (gm),"Dietary Interview - Individual Foods, First Day"
+DR1ITFAT,Total fat (gm),"Dietary Interview - Individual Foods, First Day"
+DR1ISFAT,Total saturated fatty acids (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IMFAT,Total monounsaturated fatty acids (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IPFAT,Total polyunsaturated fatty acids (gm),"Dietary Interview - Individual Foods, First Day"
+DR1ICHOL,Cholesterol (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IATOC,Vitamin E as alpha-tocopherol (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IATOA,Added alpha-tocopherol (Vitamin E) (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IRET,Retinol (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1IVARA,"Vitamin A, RAE (mcg)","Dietary Interview - Individual Foods, First Day"
+DR1IACAR,Alpha-carotene (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1IBCAR,Beta-carotene (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1ICRYP,Beta-cryptoxanthin (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1ILYCO,Lycopene (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1ILZ,Lutein + zeaxanthin (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1IVB1,Thiamin (Vitamin B1) (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IVB2,Riboflavin (Vitamin B2) (mg),"Dietary Interview - Individual Foods, First Day"
+DR1INIAC,Niacin (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IVB6,Vitamin B6 (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IFOLA,Total folate (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1IFA,Folic acid (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1IFF,Food folate (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1IFDFE,"Folate, DFE (mcg)","Dietary Interview - Individual Foods, First Day"
+DR1ICHL,Total choline (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IVB12,Vitamin B12 (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1IB12A,Added vitamin B12 (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1IVC,Vitamin C (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IVD,Vitamin D (D2 + D3) (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1IVK,Vitamin K (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1ICALC,Calcium (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IPHOS,Phosphorus (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IMAGN,Magnesium (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IIRON,Iron (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IZINC,Zinc (mg),"Dietary Interview - Individual Foods, First Day"
+DR1ICOPP,Copper (mg),"Dietary Interview - Individual Foods, First Day"
+DR1ISODI,Sodium (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IPOTA,Potassium (mg),"Dietary Interview - Individual Foods, First Day"
+DR1ISELE,Selenium (mcg),"Dietary Interview - Individual Foods, First Day"
+DR1ICAFF,Caffeine (mg),"Dietary Interview - Individual Foods, First Day"
+DR1ITHEO,Theobromine (mg),"Dietary Interview - Individual Foods, First Day"
+DR1IALCO,Alcohol (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IMOIS,Moisture (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IS040,SFA 4:0 (Butanoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IS060,SFA 6:0 (Hexanoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IS080,SFA 8:0 (Octanoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IS100,SFA 10:0 (Decanoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IS120,SFA 12:0 (Dodecanoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IS140,SFA 14:0 (Tetradecanoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IS160,SFA 16:0 (Hexadecanoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IS180,SFA 18:0 (Octadecanoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IM161,MFA 16:1 (Hexadecenoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IM181,MFA 18:1 (Octadecenoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IM201,MFA 20:1 (Eicosenoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IM221,MFA 22:1 (Docosenoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IP182,PFA 18:2 (Octadecadienoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IP183,PFA 18:3 (Octadecatrienoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IP184,PFA 18:4 (Octadecatetraenoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IP204,PFA 20:4 (Eicosatetraenoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IP205,PFA 20:5 (Eicosapentaenoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IP225,PFA 22:5 (Docosapentaenoic) (gm),"Dietary Interview - Individual Foods, First Day"
+DR1IP226,PFA 22:6 (Docosahexaenoic) (gm),"Dietary Interview - Individual Foods, First Day"
+SEQN,Respondent sequence number,"Dietary Interview - Individual Foods, Second Day"
+WTDRD1PP,Dietary day one sample weight,"Dietary Interview - Individual Foods, Second Day"
+WTDR2DPP,Dietary two-day sample weight,"Dietary Interview - Individual Foods, Second Day"
+DR2ILINE,Food/Individual component number,"Dietary Interview - Individual Foods, Second Day"
+DR2DRSTZ,Dietary recall status,"Dietary Interview - Individual Foods, Second Day"
+DR2EXMER,Interviewer ID code,"Dietary Interview - Individual Foods, Second Day"
+DRABF,Breast-fed infant (either day),"Dietary Interview - Individual Foods, Second Day"
+DRDINT,Number of days of intake,"Dietary Interview - Individual Foods, Second Day"
+DR2DBIH,# of days b/w intake and HH interview,"Dietary Interview - Individual Foods, Second Day"
+DR2DAY,Intake day of the week,"Dietary Interview - Individual Foods, Second Day"
+DR2LANG,Language respondent used mostly,"Dietary Interview - Individual Foods, Second Day"
+DR2CCMNM,Combination food number,"Dietary Interview - Individual Foods, Second Day"
+DR2CCMTX,Combination food type,"Dietary Interview - Individual Foods, Second Day"
+DR2FS,Source of food,"Dietary Interview - Individual Foods, Second Day"
+DR2IFDCD,USDA food code,"Dietary Interview - Individual Foods, Second Day"
+DR2IGRMS,Grams,"Dietary Interview - Individual Foods, Second Day"
+DR2IKCAL,Energy (kcal),"Dietary Interview - Individual Foods, Second Day"
+DR2IPROT,Protein (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2ICARB,Carbohydrate (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2ISUGR,Total sugars (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IFIBE,Dietary fiber (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2ITFAT,Total fat (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2ISFAT,Total saturated fatty acids (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IMFAT,Total monounsaturated fatty acids (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IPFAT,Total polyunsaturated fatty acids (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2ICHOL,Cholesterol (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IATOC,Vitamin E as alpha-tocopherol (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IATOA,Added alpha-tocopherol (Vitamin E) (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IRET,Retinol (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2IVARA,"Vitamin A, RAE (mcg)","Dietary Interview - Individual Foods, Second Day"
+DR2IACAR,Alpha-carotene (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2IBCAR,Beta-carotene (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2ICRYP,Beta-cryptoxanthin (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2ILYCO,Lycopene (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2ILZ,Lutein + zeaxanthin (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2IVB1,Thiamin (Vitamin B1) (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IVB2,Riboflavin (Vitamin B2) (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2INIAC,Niacin (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IVB6,Vitamin B6 (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IFOLA,Total folate (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2IFA,Folic acid (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2IFF,Food folate (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2IFDFE,"Folate, DFE (mcg)","Dietary Interview - Individual Foods, Second Day"
+DR2ICHL,Total choline (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IVB12,Vitamin B12 (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2IB12A,Added vitamin B12 (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2IVC,Vitamin C (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IVD,Vitamin D (D2 + D3) (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2IVK,Vitamin K (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2ICALC,Calcium (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IPHOS,Phosphorus (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IMAGN,Magnesium (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IIRON,Iron (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IZINC,Zinc (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2ICOPP,Copper (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2ISODI,Sodium (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IPOTA,Potassium (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2ISELE,Selenium (mcg),"Dietary Interview - Individual Foods, Second Day"
+DR2ICAFF,Caffeine (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2ITHEO,Theobromine (mg),"Dietary Interview - Individual Foods, Second Day"
+DR2IALCO,Alcohol (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IMOIS,Moisture (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IS040,SFA 4:0 (Butanoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IS060,SFA 6:0 (Hexanoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IS080,SFA 8:0 (Octanoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IS100,SFA 10:0 (Decanoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IS120,SFA 12:0 (Dodecanoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IS140,SFA 14:0 (Tetradecanoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IS160,SFA 16:0 (Hexadecanoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IS180,SFA 18:0 (Octadecanoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IM161,MFA 16:1 (Hexadecenoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IM181,MFA 18:1 (Octadecenoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IM201,MFA 20:1 (Eicosenoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IM221,MFA 22:1 (Docosenoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IP182,PFA 18:2 (Octadecadienoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IP183,PFA 18:3 (Octadecatrienoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IP184,PFA 18:4 (Octadecatetraenoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IP204,PFA 20:4 (Eicosatetraenoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IP205,PFA 20:5 (Eicosapentaenoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IP225,PFA 22:5 (Docosapentaenoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+DR2IP226,PFA 22:6 (Docosahexaenoic) (gm),"Dietary Interview - Individual Foods, Second Day"
+SEQN,Respondent sequence number,"Dietary Interview - Total Nutrient Intakes, First Day"
+WTDRD1PP,Dietary day one sample weight,"Dietary Interview - Total Nutrient Intakes, First Day"
+WTDR2DPP,Dietary two-day sample weight,"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1DRSTZ,Dietary recall status,"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1EXMER,Interviewer ID code,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRABF,Breast-fed infant (either day),"Dietary Interview - Total Nutrient Intakes, First Day"
+DRDINT,Number of days of intake,"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1DBIH,# of days b/w intake and HH interview,"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1DAY,Intake day of the week,"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1LANG,Language respondent used mostly,"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1MRESP,Main respondent for this interview,"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1HELP,Helped in responding for this interview,"Dietary Interview - Total Nutrient Intakes, First Day"
+DBQ095Z,Type of table salt used,"Dietary Interview - Total Nutrient Intakes, First Day"
+DBD100,How often add salt to food at table,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSPREP,Salt used in preparation?,"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1STY,Salt used at table yesterday?,"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1SKY,Type of salt used yesterday,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDIET,On special diet?,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT1,Weight loss/Low calorie diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT2,Low fat/Low cholesterol diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT3,Low salt/Low sodium diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT4,Sugar free/Low sugar diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT5,Low fiber diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT6,High fiber diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT7,Diabetic diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT8,Weight gain/Muscle building diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT9,Low carbohydrate diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT10,High protein diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT11,Gluten-free/Celiac diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT12,Renal/Kidney diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRQSDT91,Other special diet,"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TNUMF,Number of foods/beverages reported,"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TKCAL,Energy (kcal),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TPROT,Protein (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TCARB,Carbohydrate (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TSUGR,Total sugars (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TFIBE,Dietary fiber (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TTFAT,Total fat (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TSFAT,Total saturated fatty acids (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TMFAT,Total monounsaturated fatty acids (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TPFAT,Total polyunsaturated fatty acids (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TCHOL,Cholesterol (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TATOC,Vitamin E as alpha-tocopherol (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TATOA,Added alpha-tocopherol (Vitamin E) (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TRET,Retinol (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TVARA,"Vitamin A, RAE (mcg)","Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TACAR,Alpha-carotene (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TBCAR,Beta-carotene (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TCRYP,Beta-cryptoxanthin (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TLYCO,Lycopene (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TLZ,Lutein + zeaxanthin (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TVB1,Thiamin (Vitamin B1) (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TVB2,Riboflavin (Vitamin B2) (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TNIAC,Niacin (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TVB6,Vitamin B6 (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TFOLA,Total folate (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TFA,Folic acid (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TFF,Food folate (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TFDFE,"Folate, DFE (mcg)","Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TCHL,Total choline (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TVB12,Vitamin B12 (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TB12A,Added vitamin B12 (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TVC,Vitamin C (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TVD,Vitamin D (D2 + D3) (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TVK,Vitamin K (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TCALC,Calcium (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TPHOS,Phosphorus (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TMAGN,Magnesium (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TIRON,Iron (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TZINC,Zinc (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TCOPP,Copper (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TSODI,Sodium (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TPOTA,Potassium (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TSELE,Selenium (mcg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TCAFF,Caffeine (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TTHEO,Theobromine (mg),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TALCO,Alcohol (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TMOIS,Moisture (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TS040,SFA 4:0 (Butanoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TS060,SFA 6:0 (Hexanoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TS080,SFA 8:0 (Octanoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TS100,SFA 10:0 (Decanoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TS120,SFA 12:0 (Dodecanoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TS140,SFA 14:0 (Tetradecanoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TS160,SFA 16:0 (Hexadecanoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TS180,SFA 18:0 (Octadecanoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TM161,MFA 16:1 (Hexadecenoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TM181,MFA 18:1 (Octadecenoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TM201,MFA 20:1 (Eicosenoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TM221,MFA 22:1 (Docosenoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TP182,PFA 18:2 (Octadecadienoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TP183,PFA 18:3 (Octadecatrienoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TP184,PFA 18:4 (Octadecatetraenoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TP204,PFA 20:4 (Eicosatetraenoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TP205,PFA 20:5 (Eicosapentaenoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TP225,PFA 22:5 (Docosapentaenoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TP226,PFA 22:6 (Docosahexaenoic) (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1BWATZ,Total bottled water drank yesterday (gm),"Dietary Interview - Total Nutrient Intakes, First Day"
+DR1TWSZ,Tap water source,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD340,Shellfish eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350A,Clams eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350AQ,# of times clams eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350B,Crabs eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350BQ,# of times crabs eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350C,Crayfish eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350CQ,# of times crayfish eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350D,Lobsters eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350DQ,# of times lobsters eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350E,Mussels eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350EQ,# of times mussels eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350F,Oysters eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350FQ,# of times oysters eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350G,Scallops eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350GQ,# of times scallops eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350H,Shrimp eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350HQ,# of times shrimp eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350I,Other shellfish eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350IQ,# of times other shellfish eaten,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350J,Other unknown shellfish eaten past 30 d,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350JQ,# of times other unknown shellfish eaten,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD350K,Refused on shellfish eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD360,Fish eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370A,Breaded fish products eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370AQ,# of times breaded fish products eaten,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370B,Tuna eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370BQ,# of times tuna eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370C,Bass eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370CQ,# of times bass eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370D,Catfish eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370DQ,# of times catfish eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370E,Cod eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370EQ,# of times cod eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370F,Flatfish eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370FQ,# of times flatfish eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370G,Haddock eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370GQ,# of times haddock eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370H,Mackerel eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370HQ,# of times mackerel eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370I,Perch eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370IQ,# of times perch eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370J,Pike eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370JQ,# of times pike eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370K,Pollock eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370KQ,# of times pollock eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370L,Porgy eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370LQ,# of times porgy eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370M,Salmon eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370MQ,# of times salmon eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370N,Sardines eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370NQ,# of times sardines eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370O,Sea bass eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370OQ,# of times sea bass eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370P,Shark eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370PQ,# of times shark eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370Q,Swordfish eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370QQ,# of times swordfish eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370R,Trout eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370RQ,# of times trout eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370S,Walleye eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370SQ,# of times walleye eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370T,Other fish eaten during past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370TQ,# of times other fish eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370U,Other unknown fish eaten in past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370UQ,# of times other unknown fish eaten,"Dietary Interview - Total Nutrient Intakes, First Day"
+DRD370V,Refused on fish eaten past 30 days,"Dietary Interview - Total Nutrient Intakes, First Day"
+SEQN,Respondent sequence number,"Dietary Interview - Total Nutrient Intakes, Second Day"
+WTDRD1PP,Dietary day one sample weight,"Dietary Interview - Total Nutrient Intakes, Second Day"
+WTDR2DPP,Dietary two-day sample weight,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2DRSTZ,Dietary recall status,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2EXMER,Interviewer ID code,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DRABF,Breast-fed infant (either day),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DRDINT,Number of days of intake,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2DBIH,# of days b/w intake and HH interview,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2DAY,Intake day of the week,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2LANG,Language respondent used mostly,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2MRESP,Main respondent for this interview,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2HELP,Helped in responding for this interview,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TNUMF,Number of foods/beverages reported,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2STY,Salt used at table yesterday?,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2SKY,Type of salt used yesterday,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TKCAL,Energy (kcal),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TPROT,Protein (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TCARB,Carbohydrate (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TSUGR,Total sugars (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TFIBE,Dietary fiber (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TTFAT,Total fat (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TSFAT,Total saturated fatty acids (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TMFAT,Total monounsaturated fatty acids (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TPFAT,Total polyunsaturated fatty acids (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TCHOL,Cholesterol (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TATOC,Vitamin E as alpha-tocopherol (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TATOA,Added alpha-tocopherol (Vitamin E) (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TRET,Retinol (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TVARA,"Vitamin A, RAE (mcg)","Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TACAR,Alpha-carotene (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TBCAR,Beta-carotene (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TCRYP,Beta-cryptoxanthin (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TLYCO,Lycopene (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TLZ,Lutein + zeaxanthin (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TVB1,Thiamin (Vitamin B1) (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TVB2,Riboflavin (Vitamin B2) (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TNIAC,Niacin (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TVB6,Vitamin B6 (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TFOLA,Total folate (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TFA,Folic acid (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TFF,Food folate (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TFDFE,"Folate, DFE (mcg)","Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TCHL,Total choline (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TVB12,Vitamin B12 (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TB12A,Added vitamin B12 (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TVC,Vitamin C (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TVD,Vitamin D (D2 + D3) (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TVK,Vitamin K (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TCALC,Calcium (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TPHOS,Phosphorus (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TMAGN,Magnesium (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TIRON,Iron (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TZINC,Zinc (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TCOPP,Copper (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TSODI,Sodium (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TPOTA,Potassium (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TSELE,Selenium (mcg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TCAFF,Caffeine (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TTHEO,Theobromine (mg),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TALCO,Alcohol (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TMOIS,Moisture (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TS040,SFA 4:0 (Butanoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TS060,SFA 6:0 (Hexanoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TS080,SFA 8:0 (Octanoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TS100,SFA 10:0 (Decanoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TS120,SFA 12:0 (Dodecanoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TS140,SFA 14:0 (Tetradecanoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TS160,SFA 16:0 (Hexadecanoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TS180,SFA 18:0 (Octadecanoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TM161,MFA 16:1 (Hexadecenoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TM181,MFA 18:1 (Octadecenoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TM201,MFA 20:1 (Eicosenoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TM221,MFA 22:1 (Docosenoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TP182,PFA 18:2 (Octadecadienoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TP183,PFA 18:3 (Octadecatrienoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TP184,PFA 18:4 (Octadecatetraenoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TP204,PFA 20:4 (Eicosatetraenoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TP205,PFA 20:5 (Eicosapentaenoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TP225,PFA 22:5 (Docosapentaenoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TP226,PFA 22:6 (Docosahexaenoic) (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2BWATZ,Total bottled water drank yesterday (gm),"Dietary Interview - Total Nutrient Intakes, Second Day"
+DR2TWSZ,Tap water source,"Dietary Interview - Total Nutrient Intakes, Second Day"
+DRXFDCD,Food Code,Dietary Interview Technical Support File - Food Codes
+DRXFCSD,Short Food Code Description,Dietary Interview Technical Support File - Food Codes
+DRXFCLD,Long Food Code Description,Dietary Interview Technical Support File - Food Codes
+DSDIID,INGREDIENT ID NUMBER,Dietary Supplement Database - Blend Information
+DSDINGR,INGREDIENT NAME,Dietary Supplement Database - Blend Information
+DSDBID,BLEND COMPONENT ID,Dietary Supplement Database - Blend Information
+DSDBCNAM,BLEND COMPONENT NAME,Dietary Supplement Database - Blend Information
+DSDBCCAT,BLEND COMPONENT CATEGORY,Dietary Supplement Database - Blend Information
+DSDBCID,BLEND COMPONENT ID - OLD VERSION,Dietary Supplement Database - Blend Information
+DSDPID,SUPPLEMENT ID NUMBER,Dietary Supplement Database - Ingredient Information
+DSDSUPP,SUPPLEMENT NAME,Dietary Supplement Database - Ingredient Information
+DSDIID,INGREDIENT ID NUMBER,Dietary Supplement Database - Ingredient Information
+DSDINGR,INGREDIENT NAME,Dietary Supplement Database - Ingredient Information
+DSDOPER,INGREDIENT OPERATOR,Dietary Supplement Database - Ingredient Information
+DSDQTY,INGREDIENT QUANTITY,Dietary Supplement Database - Ingredient Information
+DSDUNIT,INGREDIENT UNIT,Dietary Supplement Database - Ingredient Information
+DSDCAT,INGREDIENT CATEGORY,Dietary Supplement Database - Ingredient Information
+DSDBLFLG,BLEND FLAG,Dietary Supplement Database - Ingredient Information
+DSDINGID,INGREDIENT ID NUMBER - OLD VERSION,Dietary Supplement Database - Ingredient Information
+DSDPID,SUPPLEMENT ID NUMBER,Dietary Supplement Database - Product Information
+DSDPRDT,PRODUCT TYPE,Dietary Supplement Database - Product Information
+DSDSUPP,SUPPLEMENT NAME,Dietary Supplement Database - Product Information
+DSDSRCE,SUPPLEMENT INFORMATION SOURCE,Dietary Supplement Database - Product Information
+DSDTYPE,SUPPLEMENT TYPE,Dietary Supplement Database - Product Information
+DSDSERVQ,SERVING SIZE QUANTITY,Dietary Supplement Database - Product Information
+DSDSERVU,SERVING SIZE UNIT,Dietary Supplement Database - Product Information
+DSDPREID,PREVIOUS PRODUCT ID,Dietary Supplement Database - Product Information
+DSDORGID,ORIGINAL PRODUCT ID,Dietary Supplement Database - Product Information
+DSDSGPF,SEQUENTIAL GROUP FORMULATION,Dietary Supplement Database - Product Information
+DSDSEQF,SEQUENTIAL FORMULATION,Dietary Supplement Database - Product Information
+DSDLINRF,LINEAR FORMULATION,Dietary Supplement Database - Product Information
+DSDCNTV,COUNT OF VITAMINS IN THE SUPPLEMENT,Dietary Supplement Database - Product Information
+DSDCNTM,COUNT OF MINERALS IN THE SUPPLEMENT,Dietary Supplement Database - Product Information
+DSDCNTA,COUNT OF AMINO ACIDS IN THE SUPPLEMENT,Dietary Supplement Database - Product Information
+DSDCNTB,COUNT OF BOTANICALS IN THE SUPPLEMENT,Dietary Supplement Database - Product Information
+DSDCNTO,COUNT OF OTHER INGREDIENTS IN SUPPLEMENT,Dietary Supplement Database - Product Information
+DSDSUPID,SUPPLEMENT ID NUMBER - OLD VERSION,Dietary Supplement Database - Product Information
+SEQN,Respondent sequence number,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+WTDRD1PP,Dietary day one sample weight,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+WTDR2DPP,Dietary two-day sample weight,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DR1DRSTZ,Dietary recall status,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DR1EXMER,Interviewer ID code,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DRDINT,Number of days of intake,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DR1DBIH,# of days b/w intake and HH interview,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DR1DAY,Intake day of the week,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DR1LANG,Language respondent used mostly,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1LOC,Location supplement originally recorded,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DSDPID,NCHS Supplement ID,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DSDSUPP,Supplement Name,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1MTCH,Matching code,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ANTA,Antacid containing calcium/magnesium,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ACTSS,Reported serving size/label serving size,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IKCAL,Energy (kcal),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IPROT,Protein (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ICARB,Carbohydrate (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ISUGR,Total sugars (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IFIBE,Dietary fiber (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ITFAT,Total fat (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ISFAT,Total saturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IMFAT,Total monounsaturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IPFAT,Total polyunsaturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ICHOL,Cholesterol (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ILYCO,Lycopene (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ILZ,Lutein + zeaxanthin (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IVB1,Thiamin (Vitamin B1) (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IVB2,Riboflavin (Vitamin B2) (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1INIAC,Niacin (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IVB6,Vitamin B6 (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IFA,Folic acid (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IFDFE,"Folate, DFE (mcg)","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ICHL,Total choline (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IVB12,Vitamin B12 (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IVC,Vitamin C (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IVK,Vitamin K (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IVD,Vitamin D (D2 + D3) (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ICALC,Calcium (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IPHOS,Phosphorus (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IMAGN,Magnesium (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IIRON,Iron (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IZINC,Zinc (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ICOPP,Copper (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ISODI,Sodium (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IPOTA,Potassium (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ISELE,Selenium (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1ICAFF,Caffeine (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+DS1IIODI,Iodine (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day"
+SEQN,Respondent sequence number,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+WTDRD1PP,Dietary day one sample weight,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+WTDR2DPP,Dietary two-day sample weight,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DR2DRSTZ,Dietary recall status,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DR2EXMER,Interviewer ID code,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DRDINT,Number of days of intake,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DR2DBIH,# of days b/w intake and HH interview,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DR2DAY,Intake day of the week,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DR2LANG,Language respondent used mostly,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2LOC,Location supplement originally recorded,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DSDPID,NCHS Supplement ID,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DSDSUPP,Supplement Name,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2MTCH,Matching code,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ANTA,Antacid containing calcium/magnesium,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ACTSS,Reported serving size/label serving size,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IKCAL,Energy (kcal),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IPROT,Protein (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ICARB,Carbohydrate (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ISUGR,Total sugars (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IFIBE,Dietary fiber (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ITFAT,Total fat (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ISFAT,Total saturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IMFAT,Total monounsaturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IPFAT,Total polyunsaturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ICHOL,Cholesterol (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ILYCO,Lycopene (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ILZ,Lutein + zeaxanthin (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IVB1,Thiamin (Vitamin B1) (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IVB2,Riboflavin (Vitamin B2) (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2INIAC,Niacin (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IVB6,Vitamin B6 (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IFA,Folic acid (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IFDFE,"Folate, DFE (mcg)","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ICHL,Total choline (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IVB12,Vitamin B12 (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IVC,Vitamin C (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IVK,Vitamin K (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IVD,Vitamin D (D2 + D3) (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ICALC,Calcium (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IPHOS,Phosphorus (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IMAGN,Magnesium (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IIRON,Iron (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IZINC,Zinc (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ICOPP,Copper (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ISODI,Sodium (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IPOTA,Potassium (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ISELE,Selenium (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2ICAFF,Caffeine (mg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+DS2IIODI,Iodine (mcg),"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day"
+SEQN,Respondent sequence number,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+WTDRD1PP,Dietary day one sample weight,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+WTDR2DPP,Dietary two-day sample weight,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DR1DRSTZ,Dietary recall status,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DR1EXMER,Interviewer ID code,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DRDINT,Number of days of intake,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DR1DBIH,# of days b/w intake and HH interview,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DR1DAY,Intake day of the week,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DR1LANG,Language respondent used mostly,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DR1MRESP,Main respondent for this interview,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DR1HELP,Helped in responding for this interview,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1DSCNT,Total # of Dietary Supplements Taken,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1DS,Any Dietary Supplements Taken?,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1ANCNT,Total # of Antacids Taken,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1AN,Any Antacids Taken?,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TKCAL,Energy (kcal),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TPROT,Protein (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TCARB,Carbohydrate (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TSUGR,Total sugars (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TFIBE,Dietary fiber (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TTFAT,Total fat (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TSFAT,Total saturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TMFAT,Total monounsaturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TPFAT,Total polyunsaturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TCHOL,Cholesterol (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TLYCO,Lycopene (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TLZ,Lutein + zeaxanthin (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TVB1,Thiamin (Vitamin B1) (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TVB2,Riboflavin (Vitamin B2) (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TNIAC,Niacin (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TVB6,Vitamin B6 (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TVB12,Vitamin B12 (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TFA,Folic acid (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TFDFE,"Folate, DFE (mcg)","Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TCHL,Total choline (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TVC,Vitamin C (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TVK,Vitamin K (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TVD,Vitamin D (D2 + D3) (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TCALC,Calcium (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TPHOS,Phosphorus (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TMAGN,Magnesium (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TIRON,Iron (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TZINC,Zinc (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TCOPP,Copper (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TSODI,Sodium (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TPOTA,Potassium (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TSELE,Selenium (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TCAFF,Caffeine (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+DS1TIODI,Iodine (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day"
+SEQN,Respondent sequence number,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+WTDRD1PP,Dietary day one sample weight,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+WTDR2DPP,Dietary two-day sample weight,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DR2DRSTZ,Dietary recall status,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DR2EXMER,Interviewer ID code,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DRDINT,Number of days of intake,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DR2DBIH,# of days b/w intake and HH interview,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DR2DAY,Intake day of the week,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DR2LANG,Language respondent used mostly,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DR2MRESP,Main respondent for this interview,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DR2HELP,Helped in responding for this interview,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2DSCNT,Total # of Dietary Supplements Taken,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2DS,Any Dietary Supplements Taken?,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2ANCNT,Total # of Antacids Taken,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2AN,Any Antacids Taken?,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TKCAL,Energy (kcal),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TPROT,Protein (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TCARB,Carbohydrate (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TSUGR,Total sugars (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TFIBE,Dietary fiber (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TTFAT,Total fat (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TSFAT,Total saturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TMFAT,Total monounsaturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TPFAT,Total polyunsaturated fatty acids (gm),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TCHOL,Cholesterol (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TLYCO,Lycopene (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TLZ,Lutein + zeaxanthin (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TVB1,Thiamin (Vitamin B1) (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TVB2,Riboflavin (Vitamin B2) (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TNIAC,Niacin (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TVB6,Vitamin B6 (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TVB12,Vitamin B12 (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TFA,Folic acid (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TFDFE,"Folate, DFE (mcg)","Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TCHL,Total choline (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TVC,Vitamin C (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TVK,Vitamin K (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TVD,Vitamin D (D2 + D3) (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TCALC,Calcium (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TPHOS,Phosphorus (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TMAGN,Magnesium (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TIRON,Iron (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TZINC,Zinc (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TCOPP,Copper (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TSODI,Sodium (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TPOTA,Potassium (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TSELE,Selenium (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TCAFF,Caffeine (mg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+DS2TIODI,Iodine (mcg),"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day"
+SEQN,Respondent sequence number,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSDPID,Supplement ID Number,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSDSUPP,Supplement Name,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSDANTA,Antacid reported as a dietary supplement,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD070,Was container seen?,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSDMTCH,Matching code,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD090,How long supplement taken (days)?,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD103,"Days supplement taken, past 30 days",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD122Q,Quantity of supplement taken daily,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD122U,Dosage form,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSDACTSS,Reported serving size/label serving size,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSDDAY1,Reported Product during Day 1,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSDDAY2,Reported Product during Day 2,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ124,Took product on own or doctor advised,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128A,For good bowel/colon health,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128B,For prostate health,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128C,For mental health,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128D,To prevent health problems,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128E,To improve my overall health,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128F,"For teeth, prevent cavities",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128G,"To supplement my diet, food not enough",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128H,To maintain health (to stay healthy),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128I,"To prevent colds, boost immune system",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128J,"For heart health, cholesterol",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128K,For eye health,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128L,"For healthy joints, arthritis",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128M,"For healthy skin, hair and nails",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128N,For weight loss,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128O,For bone health,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128P,To get more energy,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128Q,For pregnancy/breastfeeding,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128R,"For anemia, such as low iron",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128T,"To maintain blood sugar, diabetes",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128V,For kidney and bladder health,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128W,"For respiratory health, asthma",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128X,For allergies,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128Z,To improve digestion,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128AA,"For menopause, hot flashes",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128BB,"For muscle related issues, muscle cramps",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128DD,"For relaxation, stress, sleep",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128EE,For nervous system health,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128FF,"For liver health, detoxification",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128GG,For antioxidants,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128HH,"Word of mouth, advertisement",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128II,"For thyroid health, gout",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128JJ,For weight gain,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128KK,Low levels in blood,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128LL,For support after surgery,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128MM,Headaches and dizziness,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128NN,To build muscle,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128OO,For inflammation,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSD128PP,For fluid/water balance,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQ128S,Other,Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIKCAL,Energy (kcal),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIPROT,Protein (gm),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQICARB,Carbohydrate (gm),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQISUGR,Total sugars (gm),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIFIBE,Dietary fiber (gm),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQITFAT,Total fat (gm),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQISFAT,Total saturated fatty acids (gm),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIMFAT,Total monounsaturated fatty acids (gm),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIPFAT,Total polyunsaturated fatty acids (gm),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQICHOL,Cholesterol (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQILYCO,Lycopene (mcg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQILZ,Lutein + zeaxanthin (mcg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIVB1,Thiamin (Vitamin B1) (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIVB2,Riboflavin (Vitamin B2) (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQINIAC,Niacin (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIVB6,Vitamin B6 (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIFA,Folic acid (mcg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIFDFE,"Folate, DFE (mcg)",Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQICHL,Total choline (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIVB12,Vitamin B12 (mcg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIVC,Vitamin C (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIVK,Vitamin K (mcg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIVD,Vitamin D (D2 + D3) (mcg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQICALC,Calcium (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIPHOS,Phosphorus (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIMAGN,Magnesium (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIIRON,Iron (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIZINC,Zinc (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQICOPP,Copper (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQISODI,Sodium (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIPOTA,Potassium (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQISELE,Selenium (mcg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQICAFF,Caffeine (mg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+DSQIIODI,Iodine (mcg),Dietary Supplement Use 30-Day - Individual Dietary Supplements
+SEQN,Respondent sequence number,Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSDCOUNT,Total # of Dietary Supplements Taken,Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSDANCNT,Total # of Antacids Taken,Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSD010,Any Dietary Supplements Taken?,Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSD010AN,Any Antacids Taken?,Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTKCAL,Energy (kcal),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTPROT,Protein (gm),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTCARB,Carbohydrate (gm),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTSUGR,Total sugars (gm),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTFIBE,Dietary fiber (gm),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTTFAT,Total fat (gm),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTSFAT,Total saturated fatty acids (gm),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTMFAT,Total monounsaturated fatty acids (gm),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTPFAT,Total polyunsaturated fatty acids (gm),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTCHOL,Cholesterol (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTLYCO,Lycopene (mcg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTLZ,Lutein + zeaxanthin (mcg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTVB1,Thiamin (Vitamin B1) (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTVB2,Riboflavin (Vitamin B2) (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTNIAC,Niacin (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTVB6,Vitamin B6 (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTFA,Folic acid (mcg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTFDFE,"Folate, DFE (mcg)",Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTCHL,Total choline (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTVB12,Vitamin B12 (mcg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTVC,Vitamin C (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTVK,Vitamin K (mcg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTVD,Vitamin D (D2 + D3) (mcg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTCALC,Calcium (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTPHOS,Phosphorus (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTMAGN,Magnesium (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTIRON,Iron (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTZINC,Zinc (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTCOPP,Copper (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTSODI,Sodium (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTPOTA,Potassium (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTSELE,Selenium (mcg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTCAFF,Caffeine (mg),Dietary Supplement Use 30-Day - Total Dietary Supplements
+DSQTIODI,Iodine (mcg),Dietary Supplement Use 30-Day - Total Dietary Supplements
