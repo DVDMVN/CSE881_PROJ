@@ -2,6 +2,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
+RAW
+log.txt
 
 # C extensions
 *.so
