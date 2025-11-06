@@ -1,0 +1,11 @@
+,0
+SEQN,float64
+Alpha-glucosidase inhibitor,int32
+Biguanide,int32
+DPP-4 inhibitor,int32
+GLP-1 receptor agonist,int32
+Insulin,int32
+Meglitinide,int32
+SGLT2 inhibitor,int32
+Sulfonylurea,int32
+Thiazolidinedione (TZD),int32
