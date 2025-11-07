@@ -5,3 +5,4 @@ scikit-learn
 pyarrow
 fastparquet
 openpyxl
+html5lib
