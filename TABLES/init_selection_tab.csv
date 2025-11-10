@@ -318,7 +318,6 @@ LBDUIBSI_UIBC_Serum_umol_L,False,True
 LBDTIB_Total_Iron_Binding_Capacity_TIBC_ug_dL,False,False
 LBDTIBSI_Tot_Iron_Binding_Capacity_TIBC_umol_L,False,True
 LBDPCT_Transferrin_Saturation,False,True
-LBXGH_Glycohemoglobin,False,False
 LBDHDD_Direct_HDL_Cholesterol_mg_dL,False,False
 LBDHDDSI_Direct_HDL_Cholesterol_mmol_L,False,True
 LBXHA_Hepatitis_A_antibody,True,True
