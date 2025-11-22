@@ -9,6 +9,7 @@ DVDMVN_ARCHIVE
 data_dictionary.ipynb
 read_data.ipynb
 log.txt
+/HIDDEN
 
 # C extensions
 *.so
